@@ -53,6 +53,7 @@ dkms.conf
 
 # Ignore Temporary Files
 .deps/
+autom4te.cache/
 stamp-h1
 *.a
 *.log

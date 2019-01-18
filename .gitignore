@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignore Temporary Files
+.deps/
+stamp-h1
+*.a
+*.log
+
